@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdoei
-- 👀 I’m interested in CS, Comp Eng, ML, DL and Robotics
-- 🌱 I’m currently learning Computer Vision, AI and web developement
-- 💞️ I’m looking to collaborate on an AI open source project
+- 👀 I’m interested in systems programming, ML and DL.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on an AI open-source project
 - 📫 How to reach me ... easy write to me @ abdoeid.eg@ieee.org
 
 <!---
