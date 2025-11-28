@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @abdoei
-- 👀 I’m interested in systems programming, ML and DL.
+- 👀 I’m interested in systems programming and Infrastructure engineering.
 - 🌱 Currently learning C++ and Linux OS interfacing. 
-- 💞️ Looking to collaborate on a OS interfacing open-source project.
+- 💞️ Looking to collaborate on open-source projects.
 - 📫 How to reach me ... write to me @ abdoeid.eg@ieee.org
 
 <!---
